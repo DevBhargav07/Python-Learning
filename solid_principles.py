@@ -1,5 +1,5 @@
 # SOLID PRINCIPLES
-
+# https://www.geeksforgeeks.org/system-design/solid-principle-in-programming-understand-with-real-life-examples/
 # SINGLE RESPONSIBILITY
 
 from math import pi 
